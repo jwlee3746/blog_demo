@@ -120,10 +120,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "jwlee3746@naver.com"
+      url: "mailto:jwlee3746@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://jwlee3746@github.io"
+      url: "https://jwlee3746.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jwlee3746"
