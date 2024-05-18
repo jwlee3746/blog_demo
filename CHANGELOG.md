@@ -4,6 +4,12 @@
 
 ### Bug Fixes
 
+- Figure helper breaks when using code markup in caption. [#4841](https://github.com/mmistakes/minimal-mistakes/issues/4841)
+
+## [4.26.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.26.1)
+
+### Bug Fixes
+
 - Disable copy button on invalid syntax highlighting blocks to avoid positioning issues.
 - Fix typo for `fa-dribbble` in `_utilities.scss`.
 - Restrict "auto scroll sticky ToC to content" feature to Chromium browsers for now. [#4826](https://github.com/mmistakes/minimal-mistakes/issues/4826)
